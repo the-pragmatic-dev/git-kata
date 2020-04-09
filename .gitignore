@@ -1,0 +1,7 @@
+# Ignore various files
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+# Keep adding other things you want to ignore below such as the target directory
